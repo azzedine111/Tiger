@@ -1,0 +1,3 @@
+src/bind/tasks.o: src/bind/tasks.cc \
+ /run/current-system/sw/include/stdc-predef.h
+/run/current-system/sw/include/stdc-predef.h:
